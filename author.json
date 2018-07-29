@@ -1,0 +1,12 @@
+{
+    "authors": [
+        {
+            "id": "au001",
+            "name": "John Doe"
+        },
+        {
+            "id": "au002",
+            "name": "Mark Doe"
+        }
+    ]
+}
